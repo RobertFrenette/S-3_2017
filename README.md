@@ -6,14 +6,22 @@
 
 This Repo contains code examples covered in my weekly online Section.
 
-### Sections:
+## Useful links:
 
- * TBD
+* [Nu Html Checker](https://validator.w3.org/nu/) for validating HTML
+* [CSS Validation Service](https://jigsaw.w3.org/css-validator/) for validating CSS
+* [w3schools.com](https://www.w3schools.com/Js/default.asp) JavaScript tutorial
+* [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript) JavaScript resources
+* [JSFiddle](https://jsfiddle.net/) for fiddling around with JavaScript
 
-### Useful Links:
+* [S-3 Canvas Course Site](https://canvas.harvard.edu/courses/26766) - requires Harvard Login
+ 
+## Reporting issues
+Use [Github's Issues section for this repository](https://github.com/RobertFrenette/S-3_2017/issues) to report any issues with the notes.
 
- * [Nu Html Checker](https://validator.w3.org/nu/) for validating HTML
- * [CSS Validation Service](https://jigsaw.w3.org/css-validator/) for validating CSS
- * [w3schools.com](https://www.w3schools.com/Js/default.asp) JavaScript tutorial
- * [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript) JavaScript resources
- * [JSFiddle](https://jsfiddle.net/) for fiddling around with JavaScript
+Examples of the kind of issues that may need reporting:
++ Typos
++ Code samples not working as described
++ Broken or moved links
++ Etc.
+ 
