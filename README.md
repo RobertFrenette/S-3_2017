@@ -13,6 +13,7 @@ This Repo contains code examples covered in my weekly online Section.
 * [w3schools.com](https://www.w3schools.com/Js/default.asp) JavaScript tutorial
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript) JavaScript resources
 * [JSFiddle](https://jsfiddle.net/) for fiddling around with JavaScript
+* [jQuery](http://api.jquery.com/) API
 
 * [S-3 Canvas Course Site](https://canvas.harvard.edu/courses/26766) - requires Harvard Login
  
