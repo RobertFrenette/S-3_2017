@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Demo</title>
+        <meta charset="utf-8" />
+		<!-- Load external css file -->
+        <link rel="stylesheet" href=css/styles.css />
+    </head>
+    <body>
+		<h1>Shopping List</h1>
+
+		<form name="theForm" id="theForm">
+			<label for="itemName">Item Name</label>
+			<input type="text" id="itemName" autofocus />
+			<br />
+			<label for="itemQuantity">Quantity</label>
+			<input type="text" id="itemQuantity" />
+			<br /><br />
+			<input type="submit" id="addButton" value="Add Item" />
+			<br /><br /><span id="message"></span>
+		</form>
+		
+        <h2>Items:</h2>
+		<button id="clearStorage" class="hide">Clear LocalStorage</button>
+        <ul id="itemList"></ul>
+		
+        <!-- Load external script file -->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
