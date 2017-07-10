@@ -1,0 +1,16 @@
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 10px;
+}
+.visible {
+	visibility: visible;
+}
+.hidden {
+	visibility: hidden;
+}
+#map {
+	margin: auto;
+	width: 75%;
+	height: 100%;
+}
