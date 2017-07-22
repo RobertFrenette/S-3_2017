@@ -1,6 +1,6 @@
 ## Unit 3 Projects
 
-This Section covers the Unit 3 Projects.
+This Section covers the Unit 3 Projects A & B.
 
 ### JSFiddles:
 
